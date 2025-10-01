@@ -1,1 +1,1 @@
-# wc-verified-nft
+# WalletConnect Verified NFT Project
