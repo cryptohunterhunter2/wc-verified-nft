@@ -1,1 +1,1 @@
-# WalletConnect Verified NFT Project
+# WalletConnect Verified NFT Project 🚀
