@@ -1,0 +1,1 @@
+# wc-verified-nft
